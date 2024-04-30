@@ -1,0 +1,4 @@
+.DS_Store
+.pytest_cache/
+*venv
+.gitignore skills-Challenges/functions/personal_diary/skils_challenges/
